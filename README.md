@@ -1,40 +1,44 @@
 # 📘 cpp-by-husain
 
-Welcome to **cpp-by-husain** — a structured, topic-wise repository to master modern C++ through clean, practical examples.
+Welcome to **cpp-by-husain** — a structured, chapter-wise journey through modern C++.
 
-This repo covers everything from C++ fundamentals to advanced concepts like multithreading, STL, memory management, and design patterns — all explained with real code.
-
----
-
-## 🧵 Current Topic: Multithreading
-
-Explore how to create and manage threads in C++ using the Standard Library. Includes examples of:
-- Creating threads with functions and lambdas
-- Synchronization using mutexes and lock guards
-- Avoiding race conditions and deadlocks
-- Condition variables and producer-consumer problems
-- A basic thread pool implementation (WIP)
-
-📁 [06_multithreading/](./06_multithreading)
+This repository is organized like a hands-on course or book: starting from the absolute basics and gradually building up to advanced topics like STL, memory management, and multithreading.
 
 ---
 
-## 🛣️ Upcoming Topics
+## 🧠 Chapter List (Topics Covered / Coming Soon)
 
-- ✅ Basics: Variables, Control Flow, Functions
-- ✅ OOP: Classes, Inheritance, Polymorphism
-- ✅ Memory: Pointers, Smart Pointers, RAII
-- ✅ STL: Vectors, Maps, Sets, Algorithms
-- ✅ Templates & Design Patterns
-- ✅ Advanced C++: Lambdas, Move Semantics, constexpr
-
-Stay tuned as I build out each section with well-explained code examples!
+| Chapter | Topic                        | Status       |
+|--------:|------------------------------|--------------|
+| 01      | Basics: Variables, I/O, Types | ✅ In Progress |
+| 02      | Control Flow: if, loops, switch | ⏳ Planned     |
+| 03      | Functions & Recursion        | ⏳ Planned     |
+| 04      | Object-Oriented Programming  | ⏳ Planned     |
+| 05      | Memory: Pointers, Smart Pointers | ⏳ Planned     |
+| 06      | STL: Vector, Map, Set, etc.  | ⏳ Planned     |
+| 07      | Templates                    | ⏳ Planned     |
+| 08      | Multithreading               | ⏳ Planned     |
+| 09      | Modern C++: Lambdas, Move Semantics | ⏳ Planned     |
+| 10      | Design Patterns              | ⏳ Planned     |
+| 11      | Advanced & Tricks Playground | ⏳ Planned     |
 
 ---
 
-## 🛠️ Compile Instructions
+## ✅ Current Focus: Chapter 1 - C++ Basics
 
-Use `g++` with appropriate flags:
+This chapter includes:
+- Variables & Data Types
+- Input/Output with `cin`, `cout`
+- Comments & Naming Conventions
+- Compilation Basics
+
+📁 [01_basics/](./01_basics)
+
+---
+
+## 🛠️ How to Compile
+
+Use `g++` from terminal:
 
 ```bash
-g++ -std=c++11 file.cpp -pthread -o output && ./output
+g++ filename.cpp -o output && ./output
