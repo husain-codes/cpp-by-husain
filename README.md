@@ -24,7 +24,7 @@ This repository is organized like a hands-on course or book: starting from the a
 
 ---
 
-## ✅ Current Focus: Chapter 1 - C++ Basics
+## ✅ Chapter 1 - C++ Basics
 
 This chapter includes:
 - Variables & Data Types
@@ -34,6 +34,19 @@ This chapter includes:
 
 📁 [01_basics/](./01_basics)
 
+---
+
+---
+
+## ✅ Chapter 2 - Control Flow
+
+This chapter includes:
+- Conditional operators
+- while , do while , for loops
+- Switches
+- Jumps with break , continue , and goto
+
+📁 [02_Control_Flow/](./02_Control_Flow)
 ---
 
 ## 🛠️ How to Compile
