@@ -36,8 +36,6 @@ This chapter includes:
 
 ---
 
----
-
 ## ✅ Chapter 2 - Control Flow
 
 This chapter includes:
@@ -47,6 +45,7 @@ This chapter includes:
 - Jumps with break , continue , and goto
 
 📁 [02_Control_Flow/](./02_Control_Flow)
+
 ---
 
 ## 🛠️ How to Compile
