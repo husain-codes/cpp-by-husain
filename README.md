@@ -11,8 +11,8 @@ This repository is organized like a hands-on course or book: starting from the a
 | Chapter | Topic                        | Status       |
 |--------:|------------------------------|--------------|
 | 01      | Basics: Variables, I/O, Types | ✅ Completed |
-| 02      | Control Flow: if, loops, switch | ✅ In Progress    |
-| 03      | Functions & Recursion        | ⏳ Planned     |
+| 02      | Control Flow: if, loops, switch | ✅ Completed    |
+| 03      | Functions & Recursion        | ⏳ In Progress     |
 | 04      | Object-Oriented Programming  | ⏳ Planned     |
 | 05      | Memory: Pointers, Smart Pointers | ⏳ Planned     |
 | 06      | STL: Vector, Map, Set, etc.  | ⏳ Planned     |
