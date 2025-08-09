@@ -47,6 +47,17 @@ This chapter includes:
 📁 [02_Control_Flow/](./02_Control_Flow)
 
 ---
+## ✅ Chapter 3 - Functions & Recursion
+
+This chapter includes:
+- passing arguments
+- definition of inline functions
+- overloading functions and default arguments
+- the principle of recursion.
+
+📁 [03_Functions_and_Recursions)](./03_Functions_and_Recursions)
+
+---
 
 ## 🛠️ How to Compile
 
