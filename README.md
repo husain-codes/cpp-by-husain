@@ -49,13 +49,24 @@ This chapter includes:
 ---
 ## ✅ Chapter 3 - Functions & Recursion
 
-This chapter includes:
-- passing arguments
-- definition of inline functions
-- overloading functions and default arguments
-- the principle of recursion.
+This chapter covers everything you need to know about defining, calling, and organizing functions in C++ — from basic function syntax to advanced patterns like recursion and overloading.  
 
-📁 [03_Functions_and_Recursions)](./03_Functions_and_Recursions)
+### 📚 Topics Included  
+
+- **Function Basics** — declaration, definition, and calling  
+- **Passing Arguments** — pass-by-value, pass-by-reference, and `const` references  
+- **Default Arguments** — setting default values for parameters  
+- **Inline Functions** — performance benefits and when to use them  
+- **Function Overloading** — multiple functions with the same name but different parameters  
+- **Recursion** — direct and indirect recursion, base and recursive cases  
+- **Static Variables in Functions** — maintaining state across calls  
+- **Function Prototypes & Header Files** — separating declaration from definition  
+- **Scope & Lifetime of Variables** — local, global, and static scope rules  
+- **Returning Values & Multiple Returns** — returning by value, reference, and pointer  
+- **Const-Correctness in Functions** — enforcing immutability where needed  
+- **Recursive Problem Solving Patterns** — factorial, Fibonacci, divide & conquer 
+
+📁 [03_Functions_and_Recursions/](./03_Functions_and_Recursions)
 
 ---
 
