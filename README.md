@@ -55,7 +55,7 @@ This chapter includes:
 - overloading functions and default arguments
 - the principle of recursion.
 
-📁 [03_Functions_and_Recursions)](./03_Functions_and_Recursions)
+📁 [03_Functions_and_Recursions/](./03_Functions_and_Recursions)
 
 ---
 
