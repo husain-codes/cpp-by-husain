@@ -16,6 +16,6 @@ jobs:
     - name: Install g++
       run: sudo apt-get update && sudo apt-get install -y g++
     - name: Build
-      run: g++ -std=c++17 -Wall -Wextra -o main *.cpp
+      run: g++ -std=c++17 -Wall -Wextra -o main $(find . -name "*.cpp")
     - name: Run
       run: ./main
