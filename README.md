@@ -1,6 +1,6 @@
-# 📘 cpp-by-husain
+# 📘 cpp-concepts
 
-Welcome to **cpp-by-husain** — a structured, chapter-wise journey through modern C++.
+Welcome to **cpp-concepts** — a structured, chapter-wise journey through modern C++.
 
 This repository is organized like a hands-on course or book: starting from the absolute basics and gradually building up to advanced topics like STL, memory management, and multithreading.
 
