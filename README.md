@@ -14,14 +14,13 @@ This repository is organized like a hands-on course or book: starting from the a
 | 02      | Control Flow: if, loops, switch | ✅ Completed    |
 | 03      | Functions & Recursion        | ✅ Completed    |
 | 04      | Compound Types: Ref and pointers | ⏳ Planned  |
-| 04      | Object-Oriented Programming  | ⏳ Planned     |
-| 05      | Memory: Pointers, Smart Pointers | ⏳ Planned     |
-| 06      | STL: Vector, Map, Set, etc.  | ⏳ Planned     |
-| 07      | Templates                    | ⏳ Planned     |
-| 08      | Multithreading               | ⏳ Planned     |
-| 09      | Modern C++: Lambdas, Move Semantics | ⏳ Planned     |
-| 10      | Design Patterns              | ⏳ Planned     |
-| 11      | Advanced & Tricks Playground | ⏳ Planned     |
+| 05      | Object-Oriented Programming  | ⏳ Planned     |
+| 06      | Memory: Pointers, Smart Pointers | ⏳ Planned     |
+| 07      | STL: Vector, Map, Set, etc.  | ⏳ Planned     |
+| 08      | Templates                    | ⏳ Planned     |
+| 09      | Multithreading               | ⏳ Planned     |
+| 10      | Modern C++: Lambdas, Move Semantics | ⏳ Planned     |
+| 11      | Design Patterns              | ⏳ Planned     |
 
 ---
 
